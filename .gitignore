@@ -1,0 +1,10 @@
+logs/
+venv/
+.venv/
+*.log
+.idea/
+dist/
+temp/
+
+test.py
+
